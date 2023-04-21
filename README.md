@@ -45,6 +45,11 @@ Contributions are always welcome! If you have any ideas, suggestions, fixes, fee
 4. Test your changes
 5. Push your branch and open a Pull Request
 
+## This repo fork from bulletproof-react for me to learn about react architect and add some new feature to app
+
+Author: lam99quyen@gmail.com
+Contact for more information, thank you.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
